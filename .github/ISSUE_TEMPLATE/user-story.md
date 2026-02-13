@@ -12,9 +12,9 @@ assignees: ''
  **I need** [function]  
  **So that** [benefit]  
 
-   As a product manager
-I need a standardized way to capture user requirements as user stories
-So that development and business teams clearly understand the user’s needs and expected value
+   **As a** product manager
+**I need** a standardized way to capture user requirements as user stories
+**So that** development and business teams clearly understand the user’s needs and expected value
 
  ### Details and Assumptions
  * [document what you know]
