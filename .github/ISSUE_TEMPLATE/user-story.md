@@ -2,9 +2,9 @@
 name: User Story
 about: User Story gives the reference as what role needs which function to get what
   benefit with assumptions and acceptance criteria
-title: ''
-labels: ''
-assignees: ''
+title: 'Product Manager'
+labels: 'Enhancements'
+assignees: '@me'
 
 ---
 
